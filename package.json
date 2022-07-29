@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "dev" : "webpack-dev-server"
+    "dev" : "webpack serve --open",
+    "start" : "echo \"여기에 빌드 스크립트를 추가합니다\""
   },
   "keywords": [],
   "author": "",
